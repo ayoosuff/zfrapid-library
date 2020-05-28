@@ -1,5 +1,5 @@
 {
-  "name": "ayoosuff/zfrapid-library",
+  "name": "zfrapid/zfrapid-library",
   "description": "ZF module with a library to be used by ZFrapid applications",
   "license": "The MIT License (MIT)",
   "type": "library",
