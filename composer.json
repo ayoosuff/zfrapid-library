@@ -1,9 +1,9 @@
 {
-  "name": "zfrapid/zfrapid-library",
+  "name": "ayoosuff/zfrapid-library",
   "description": "ZF module with a library to be used by ZFrapid applications",
   "license": "The MIT License (MIT)",
   "type": "library",
-  "homepage": "https://github.com/zfrapid/zfrapid-library",
+  "homepage": "https://github.com/ayoosuff/zfrapid-library",
   "authors": [
     {
       "name": "Ralf Eggert",
